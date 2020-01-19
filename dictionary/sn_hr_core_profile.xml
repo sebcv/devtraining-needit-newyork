@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="global_search_config_handler=HRProfileSearchConfig" audit="true" label="HR Profile" max_length="40" name="sn_hr_core_profile" text_index="true" type="collection">
+        <element label="SF userId" max_length="100" name="x_58872_needit_sf_userid" type="string"/>
+    </element>
+</database>
